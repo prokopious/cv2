@@ -1,0 +1,32 @@
+#international-house--celta-certification--2008 {
+
+	padding-top: 15px;
+	font-size: 25px;
+}
+
+h4 {
+
+	font-size: 15px;
+}
+
+h5 {
+
+	font-size: 25px;
+}
+
+h2 {
+
+font-size: 30px;
+color: red;
+}
+
+body {
+
+	
+	margin-right: 20%;
+	padding-top: 5%;
+	padding-left: 5%;
+	margin-left: 1%;
+	margin-right: 1%;
+	border: .2px solid black;
+}
