@@ -6,7 +6,7 @@ title: Todd Huyett CV
 # Todd Murdock Huyett
 ##### Web Developer 
 
-[<img src="https://www.linkpicture.com/q/PDF_24_10.png" />](/todd.pdf) [<img src="https://www.linkpicture.com/q/logo3_14.png" />](/todd.docx) [<img src="https://www.linkpicture.com/q/linkedin-42-151143.png" />](https://www.linkedin.com/in/todd-huyett-2596a892) 
+[<img src="https://www.linkpicture.com/q/PDF_24_10.png" />](/toddcv.pdf) [<img src="https://www.linkpicture.com/q/logo3_14.png" />](/todd.docx) [<img src="https://www.linkpicture.com/q/linkedin-42-151143.png" />](https://www.linkedin.com/in/todd-huyett-2596a892) 
 
 
 
@@ -15,7 +15,7 @@ title: Todd Huyett CV
 
 #### toddhuyett@gmail.com
 #### 703-635-9598
-#### [Portfolio](https://sharp-swartz-db05e5.netlify.app/)
+#### [Portfolio](https://sharp-swartz-db05e5.netlify.app)
 <br/><br/>
 
 Web developer specializing in educational technology, e-commerce, and artificial intelligence. 
