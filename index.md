@@ -6,7 +6,7 @@ title: Todd Huyett CV
 # Todd Murdock Huyett
 ##### Web Developer 
 
-[<img src="https://www.linkpicture.com/q/PDF_24_10.png" />](/toddcv.pdf) [<img src="https://www.linkpicture.com/q/logo3_14.png" />](/todd.docx) [<img src="https://www.linkpicture.com/q/linkedin-42-151143.png" />](https://www.linkedin.com/in/todd-huyett-2596a892) 
+[<img src="https://www.linkpicture.com/q/PDF_24_10.png" />](/toddhuyett.pdf) [<img src="https://www.linkpicture.com/q/logo3_14.png" />](/todd.docx) [<img src="https://www.linkpicture.com/q/linkedin-42-151143.png" />](https://www.linkedin.com/in/todd-huyett-2596a892) 
 
 
 
